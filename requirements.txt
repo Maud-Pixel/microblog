@@ -1,7 +1,5 @@
-Flask
-pymongo[srv]
-gunicorn==20.0.4
 
+pymongo[srv]
 click==7.1.2
 cycler==0.10.0
 dnspython==1.16.0
@@ -14,7 +12,6 @@ MarkupSafe==1.1.1
 matplotlib==3.3.3
 numpy==1.19.5
 Pillow==8.1.0
-pymongo==3.11.2
 pyparsing==2.4.7
 python-dateutil==2.8.1
 six==1.15.0
