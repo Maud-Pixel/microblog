@@ -1,5 +1,6 @@
 
 pymongo[srv]
+python-dotenv
 click==7.1.2
 cycler==0.10.0
 dnspython==1.16.0
